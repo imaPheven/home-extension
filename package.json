@@ -1,0 +1,22 @@
+{
+  "name": "home-extension",
+  "version": "0.0.1",
+  "description": "A simple demo of browser extensions",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imaPheven/home-extension.git"
+  },
+  "author": "imaPheven",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imaPheven/home-extension/issues"
+  },
+  "homepage": "https://github.com/imaPheven/home-extension#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.9.0"
+  }
+}
